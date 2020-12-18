@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -8,23 +6,23 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
@@ -47,55 +45,24 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-## issues
-Title: Initialize a React Application
-
-Body: User Stories
-
-* As a user, I can see the About section.
-
-* As a user, I can see the Navigation menu.
-Title: Create the Photo Gallery
-
-Body: User Stories
-
-* As a user, I can click on a category and view the photos associated with the selected category.
-
-* As a user, when I click on a category, only photos associated with the selected category will be visible.
-Title: Design the Contact Form
-
-Body: User Stories
-
-• As a user, I can enter my information into a form.
-
-• As a user, I can submit the information.
-Title: Create a Modal
-
-Body: User Stories
-
-* As a user, I can select a thumbnail of a photo.
-
-* As a user, the selected photo is viewable in a modal.
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
